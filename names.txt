@@ -1,0 +1,5 @@
+#!/bin/sh
+
+exec vim "$@"
+pratyaksh trivedi 
+pratyaksh trivedi
